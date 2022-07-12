@@ -1,0 +1,8 @@
+[user]
+	signingkey = B4AE4CA30F4A4E97
+	email = inaldoss@hotmail.com
+	name = Inaldo
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
